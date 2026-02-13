@@ -2,7 +2,7 @@ import React from 'react'
 
 const Duplicate = () => {
   return (
-    <div>Duplicate</div>
+    <div>Duplicate1</div>
   )
 }
 
